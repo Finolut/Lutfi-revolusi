@@ -1,4 +1,5 @@
 bulan January
 -bisa menguasai Github dan Git
 -menguasai PHP
--tetap lonsisten Workout
+-tetap konsisten Workout
+-melatih berbicara di depan banyak orang
