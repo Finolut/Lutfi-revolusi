@@ -1,4 +1,7 @@
 bulan January
 -bisa menguasai Github dan Git
+  menguasai merge
+  belajar git
 -menguasai PHP
 -tetap konsisten Workout
+-love kak rei
