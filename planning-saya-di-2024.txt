@@ -1,4 +1,7 @@
 bulan January
 -bisa menguasai Github dan Git
+  menguasai merge
+  menguasai branch
 -menguasai PHP
+  belajar dari 0
 -tetap konsisten Workout
